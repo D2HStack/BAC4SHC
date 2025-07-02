@@ -11,12 +11,14 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+<!--
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![project_license][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+-->
 
 <!-- PROJECT LOGO -->
 <br />
@@ -34,15 +36,18 @@ Startups’ Human Capital</h3>
     <a href="documents/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+    <!--
     <a href="https://github.com/github_username/repo_name">View Demo</a>
     &middot;
     <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
     <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    -->
   </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
+<!--
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -67,6 +72,7 @@ Startups’ Human Capital</h3>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+-->
 
 <!-- ABOUT THE PROJECT -->
 
@@ -100,6 +106,8 @@ The primary goal of these surveys is to gather data that will allow for a deeper
 The surveys presented in this report will lay the groundwork for subsequent analysis, including a comparative study of the HC traits of BAs and CIs and the development of a comprehensive dataset on these investor groups. The insights derived from this research will be valuable for both practitioners and policymakers, informing strategies to enhance investor engagement and promote the sustainable growth of startups across Europe.
 </p>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 # Built With
 
 <!-- - [![Next][Next.js]][Next-url]
@@ -124,8 +132,8 @@ The surveys presented in this report will lay the groundwork for subsequent anal
 
 The code in the repositary was tested with Python 3.12.1, though most (but not all) will also work correctly with older versions of Python.
 
-The packages I used to run the code in the book are listed in [requirements.txt](requirements.txt) (Note that some of these exact version numbers may not be available on your platform: you may have to tweak them for your own use).
-To install the requirements using [pip](https://pypi.org/project/pip/), run the following at any cell:
+The packages used to run the code are listed in [requirements.txt](requirements.txt).
+To install the requirements using [pip](https://pypi.org/project/pip/), run the following in any cell of your notebooks:
 
 ```
 $ !pip install -r requirements.txt
@@ -138,6 +146,8 @@ $ !pip install -r requirements.txt
 <a href="https://github.com/github_username/repo_name/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
 </a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
