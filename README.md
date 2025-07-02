@@ -151,7 +151,7 @@ The code in this repository, including all code samples in the notebooks listed 
 
 ## Contact
 
-Your Name - [@huyhoangdang](https://www.linkedin.com/in/huyhoangdang/) - huy.dang@univ-lyon3.fr
+Huy Hoang Dang - [@huyhoangdang](https://www.linkedin.com/in/huyhoangdang/) - huy.dang@univ-lyon3.fr
 
 Project Link: [https://github.com/D2HStack/BAC4SHC](https://github.com/D2HStack/BAC4SHC)
 
