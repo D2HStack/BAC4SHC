@@ -153,7 +153,7 @@ The code in this repository, including all code samples in the notebooks listed 
 
 Your Name - [@huyhoangdang](https://www.linkedin.com/in/huyhoangdang/) - huy.dang@univ-lyon3.fr
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/D2HStack/BAC4SHC](https://github.com/D2HStack/BAC4SHC)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
