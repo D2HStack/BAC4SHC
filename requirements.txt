@@ -3,3 +3,4 @@ openpyxl==3.1.5
 numpy==2.3.1
 scipy==1.16.0
 plotly==6.2.0
+nbformat>=4.2.0
